@@ -1,6 +1,6 @@
-## Welcome Jakub's page
+## Welcome to Jakub's page
 
-This site some day will be containing information about incoming game: Dungeon Cube (and other projects in the future).
+This site some day will be containing information about my portfolio.
 
 ### Markdown
 
