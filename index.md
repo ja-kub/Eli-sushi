@@ -1,4 +1,4 @@
-## Welcome janushex.com
+## Welcome Jakub's page
 
 This site some day will be containing information about incoming game: Dungeon Cube (and other projects in the future).
 
