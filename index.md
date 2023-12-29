@@ -13,8 +13,5 @@ Mniam!
 - Rolki
 - Inne sushi
 
-**Dobre**, _smaczne_ i  `pożywne`!
-
-[Link](url) and ![Image](src)
 ```
-
+**Dobre**, _smaczne_ i  `pożywne`!
