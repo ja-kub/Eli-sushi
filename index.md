@@ -12,6 +12,5 @@ Mniam!
 
 - Rolki
 - Inne sushi
-
 ```
 **Dobre**, _smaczne_ i  `pożywne`!
